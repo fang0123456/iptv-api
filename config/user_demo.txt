@@ -34,7 +34,7 @@ CGTN法语
 CGTN纪录
 中国天气
 
-💰央视付费频道,#genre#
+📺付费频道,#genre#
 文化精品
 央视台球
 风云音乐
@@ -48,7 +48,7 @@ CGTN纪录
 世界地理
 兵器科技
 
-🖼️4K频道,#genre#
+📺4K频道,#genre#
 CCTV-4K
 CCTV-16
 北京卫视4K
@@ -108,25 +108,6 @@ Love Nature
 西藏卫视
 新疆卫视
 云南卫视
-
-🔭纪录频道,#genre#
-CCTV-9
-世界地理
-求索纪录
-金鹰纪实
-新纪实
-北京纪实科教
-北京纪实科教8K
-纪实人文
-之江纪录
-地理高清专区
-解密高清专区
-军事高清专区
-Loupe
-CGTN纪录
-Love Nature
-Love The Planet
-Fashion
 
 🌊港澳台,#genre#
 翡翠台
@@ -294,6 +275,7 @@ Disney XD
 赵本山
 甄子丹
 成龙
+元彪
 
 🎵音乐频道,#genre#
 CCTV-15
