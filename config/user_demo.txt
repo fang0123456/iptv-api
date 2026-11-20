@@ -156,13 +156,6 @@ RTHK35
 HOY77
 澳视澳门
 NHK东京综合
-NHK World
-AXN
-HBO
-Loupe
-Love Nature
-Love The Planet
-Fashion
 美亚C+
 东森电影
 Now剧集
@@ -261,11 +254,6 @@ CN卡通
 经典动漫
 蜡笔小新
 漫画解说
-Nick Jr
-Nickelodeon
-ZooMoo
-Disney Channel
-Disney XD
 
 📺名人剧场,#genre#
 周星驰
