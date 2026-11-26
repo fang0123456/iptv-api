@@ -7,14 +7,9 @@ name: Generate playlist manually
 # ⚠️NOTICE: Do NOT add `on: schedule` cron triggers in forked repositories.
 # Publish generated results only through a Pages artifact, a per-run release, or an external endpoint; never commit them to Git.
 # Use Docker, the CLI, the GUI, or external object storage for frequent or scheduled runs.
-on:	
-  	schedule:	
-       - cron:'0 19 */2 * *'
-      - cron:	'0 7 */2 * *'
-  workflow_dispatch:	
-       branches:	
-      - master	
-      - dev
+
+on:
+  workflow_dispatch:
 
 permissions:
   contents: read
