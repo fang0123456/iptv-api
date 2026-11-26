@@ -14,7 +14,7 @@ on:
   workflow_dispatch:	
        branches:	
       - master	
-	     - dev
+      - dev
   workflow_dispatch:
 
 permissions:
