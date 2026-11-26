@@ -15,7 +15,6 @@ on:
        branches:	
       - master	
       - dev
-  workflow_dispatch:
 
 permissions:
   contents: read
